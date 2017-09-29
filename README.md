@@ -1,6 +1,6 @@
 # RaspPi-Code
 <h2>1. Raspberry Pi Push Button Video Recorder</h2>
-<p>The file VideoCamera.py contains the code used for this project. The code will wait for someone to press the button before recording a 10 second video. While the video is recording, a LED will light up to let the user know that it is recording. Once finished, the video will be saved with the current date and time as the filename. To play the video, go to the directory it is stored in from Terminal and type omxplayer "name of video file" and press enter </p>
+<p>The file VideoCamera.py contains the code used for this project. The code will wait for someone to press the button before recording a 10 second video. While the video is recording, a LED will light up to let the user know that it is recording. Once finished, the video will be saved with the current date and time as the filename. To play the video, go to the directory it is stored in from Terminal and type <code>omxplayer "<i>name of video file</i>"</code> and press enter </p>
 
 
 Components
