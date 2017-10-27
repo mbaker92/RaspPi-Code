@@ -1,3 +1,6 @@
+# Author: Matthew Baker
+# GitHub: https://github.com/mbaker92
+
 # omxplayer filename
 
 from picamera import PiCamera

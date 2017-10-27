@@ -1,3 +1,6 @@
+# Author: Matthew Baker
+# GitHub: https://github.com/mbaker92
+
 #omxplayer filename
 #used on command line to play video
 

@@ -1,3 +1,6 @@
+# Author: Matthew Baker
+# GitHub: https://github.com/mbaker92
+
 # Libraries 
 from gpiozero import MotionSensor
 from picamera import PiCamera
