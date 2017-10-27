@@ -28,7 +28,7 @@ Components
 
 Components 
 <ul>
-<li>Raspberry Pi</li>
+<li>Raspberry Pi 3</li>
 <li>Jumper Wires</li>
 <li>PIR Sensor</li>
 <li>Raspberry Pi Camera V2</li>
@@ -36,4 +36,19 @@ Components
 </ul>
 <br>
 <img src = "https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/PIRCameraCircuit.png?raw=true" align="middle" height="342" width="653">
+<br>
+
+<h2>3. Raspberry PI Two Buttons as Input For Camera Control</h2>
+<p>The file Two Button Camera.py contains the code used for this project. The code will set GPIO pins 17 and 18 as Input with the internal pull up resistors. One button (connected to GPIO 17) records a 10 second video. The other button (connected to GPIO 18) captures a picture. Both video and picture files are saved to the Documents folder with the current date and time as the filename. Since the code contains an infinite loop, it should be run from the Terminal. To end the program press <code> Ctrl + c</code>. </p><br>
+
+Components
+<ul>
+<li>Raspberry Pi 3</li>
+<li>Jumper Wires</li>
+<li>2 Press Buttons</li>
+<li>Raspberry Pi Camera V2</li>
+<li>Breadboard</li>
+</ul>
+<br>
+<img src = "https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/TwoButtonCamera.png?raw=true" align="middle" height="630" width="460" >
 <br>
