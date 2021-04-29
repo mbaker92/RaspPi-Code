@@ -1,4 +1,9 @@
 # RaspPi-Code
+<h3>Donations</h3>
+<a href="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/BitReceiveAddress.txt"><img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/ButtonDonate.png"></a> <img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/QRBitcoin.PNG?raw=true" width=100px>
+
+
+
 <h2>1. Raspberry Pi Push Button Video Recorder</h2>
 <p>The file VideoCamera.py contains the code used for this project. The code will wait for someone to press the button before recording a 10 second video. While the video is recording, a LED will light up to let the user know that it is recording. Once finished, the video will be saved with the current date and time as the filename. To play the video, go to the directory it is stored in from Terminal and type <code>omxplayer "<i>name of video file</i>"</code> and press enter </p>
 
