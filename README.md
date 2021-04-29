@@ -1,6 +1,10 @@
 # RaspPi-Code
 <h3>Donations</h3>
-<a href="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/BitReceiveAddress.txt"><img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/ButtonDonate.png"></a> <img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/QRBitcoin.PNG?raw=true" width=100px>
+
+| Currency | Address | QR Code |
+| :------: | :-----: | :-----: |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/1920px-Bitcoin_logo.svg.png" width = 100px> |  1Nr5UcqckCoHiuoYD9D37yTCWaeRp6Lgi8 | <img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/QRBitcoin.PNG?raw=true" width=100px> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1024px-Ethereum-icon-purple.svg.png" width=100px> | 0x251B1582941aa514B42906a41882f2F2B99cCB48 | <img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Eth/ETHQRCode.PNG?raw=true" width=100px>
 
 
 
