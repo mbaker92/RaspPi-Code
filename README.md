@@ -52,3 +52,16 @@ Components
 <br>
 <img src = "https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/TwoButtonCamera.png?raw=true" align="middle" height="630" width="460" >
 <br>
+
+<h2>4. Record .h264 Video and Convert to MP4</h2>
+<p> The file RecordBySeconds.sh contains a script that will record video based on the number of seconds that you pass into it in Terminal. Raspivid is already installed on Raspian by default, but you will need to install MP4Box in order to convert the .h264 video to MP4. The script will take the number of seconds you wish to record. It will then convert the file to MP4 and save the MP4 with the filename as the current date and time. It will then remove the original .h264 file.</p><br>
+
+<p>To install <code>MP4Box</code> you will open Terminal and run:
+<code> sudo apt install -y gpac </code></p>
+
+<p>Once installed, you can run the script on your Raspberry Pi. To run the script, place it in a location where you want to store the videos and type into Terminal</p>
+<code> ./RecordBySeconds.sh 'Number of Seconds' </code></br>
+<p>Ex. <code> ./RecordBySeconds.sh 10 </code> will record 10 seconds of video.</p>
+
+<p>If the script will not run using that command, you will need to change the permissions on the file so that you can execute it. To change permissions type <code>sudo chmod +x RecordBySeconds.sh</code> into Terminal and then run the above commands.</p>
+
