@@ -1,12 +1,4 @@
 # RaspPi-Code
-<h3>Donations</h3>
-
-| Currency | Address | QR Code |
-| :------: | :-----: | :-----: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/1920px-Bitcoin_logo.svg.png" width = 100px> |  1Nr5UcqckCoHiuoYD9D37yTCWaeRp6Lgi8 | <img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Bit/QRBitcoin.PNG?raw=true" width=100px> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1024px-Ethereum-icon-purple.svg.png" width=100px> | 0x251B1582941aa514B42906a41882f2F2B99cCB48 | <img src="https://github.com/mbaker92/RaspPi-Code/blob/master/Photos/Eth/ETHQRCode.PNG?raw=true" width=100px>
-
-
 
 <h2>1. Raspberry Pi Push Button Video Recorder</h2>
 <p>The file VideoCamera.py contains the code used for this project. The code will wait for someone to press the button before recording a 10 second video. While the video is recording, a LED will light up to let the user know that it is recording. Once finished, the video will be saved with the current date and time as the filename. To play the video, go to the directory it is stored in from Terminal and type <code>omxplayer "<i>name of video file</i>"</code> and press enter </p>
